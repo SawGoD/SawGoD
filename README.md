@@ -26,6 +26,15 @@ I build and maintain infrastructure, automate boring routines, and like systems 
 - automation scripts and small internal tools
 - bots / integrations when it saves time
 
+### 🧩 OS
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="28" /><br><sub>Windows</sub></td>
+    <td align="center"><img src="https://www.google.com/s2/favicons?domain=ubuntu.com&sz=64" width="28" /><br><sub>Ubuntu</sub></td>
+    <td align="center"><img src="https://www.google.com/s2/favicons?domain=apple.com&sz=64" width="28" /><br><sub>macOS</sub></td>
+  </tr>
+</table>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=2800&pause=800&color=DC143C&vCenter=true&width=500&height=30&lines=S+U+T+I+V+I+S+M+Project.;.)
 
 ---
@@ -39,7 +48,7 @@ I build and maintain infrastructure, automate boring routines, and like systems 
 | Networking | <img src="https://www.google.com/s2/favicons?domain=netbird.io&sz=64" width="16" alt="NetBird" /> NetBird &nbsp; <img src="https://www.google.com/s2/favicons?domain=cloudflare.com&sz=64" width="16" alt="Cloudflare" /> DNS/routing |
 | APIs / Integrations | <img src="https://www.google.com/s2/favicons?domain=telegram.org&sz=32" width="16" alt="Telegram" /> Telegram Bot API &nbsp; <img src="https://www.google.com/s2/favicons?domain=yookassa.ru&sz=32" width="16" alt="ЮKassa" /> ЮKassa &nbsp; <img src="https://www.google.com/s2/favicons?domain=imgbb.com&sz=32" width="16" alt="imgbb" /> imgbb |
 | Tools | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/60px-Windows_Terminal_logo.svg.png" width="16" alt="Windows Terminal" title="Windows Terminal" /> Windows Terminal &nbsp; <img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=64" width="16" alt="WSL" title="WSL" /> WSL &nbsp; <img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=64" width="16" alt="WSA" title="WSA" /> WSA &nbsp; <img src="https://www.google.com/s2/favicons?domain=neovim.io&sz=64" width="16" alt="Neovim" title="Neovim" /> Neovim &nbsp; <img src="https://www.google.com/s2/favicons?domain=termius.com&sz=64" width="16" alt="Termius" title="Termius" /> Termius &nbsp; <img src="https://www.google.com/s2/favicons?domain=cursor.com&sz=64" width="16" alt="Cursor" title="Cursor" /> Cursor &nbsp; <img src="https://www.google.com/s2/favicons?domain=claude.com&sz=32" width="16" alt="Claude" title="Claude" /> Claude Code &nbsp; <img src="https://www.google.com/s2/favicons?domain=openai.com&sz=64" width="16" alt="OpenAI" title="OpenAI" /> OpenAI (research) &nbsp; <img src="https://www.google.com/s2/favicons?domain=ollama.com&sz=64" width="16" alt="Ollama" title="Ollama" /> Ollama &nbsp; <img src="https://www.google.com/s2/favicons?domain=lmstudio.ai&sz=64" width="16" alt="LM Studio" title="LM Studio" /> LM Studio &nbsp; <img src="https://www.google.com/s2/favicons?domain=antares-sql.app&sz=64" width="16" alt="Antares SQL" title="Antares SQL" /> Antares SQL &nbsp; <img src="https://www.google.com/s2/favicons?domain=mongodb.com&sz=64" width="16" alt="MongoDB Compass" title="MongoDB Compass" /> MongoDB Compass &nbsp; <img src="https://www.google.com/s2/favicons?domain=sheets.google.com&sz=64" width="16" alt="Google Sheets" title="Google Sheets" /> Sheets &nbsp; <img src="https://www.google.com/s2/favicons?domain=tampermonkey.net&sz=64" width="16" alt="Tampermonkey" title="Tampermonkey" /> Tampermonkey &nbsp; <img src="https://www.google.com/s2/favicons?domain=noip.com&sz=64" width="16" alt="No-IP" title="No-IP" /> No-IP |
-| OS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="16" height="16" alt="Windows 11" /> Windows &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/32px-Logo-ubuntu_cof-orange-hex.svg.png" width="16" height="16" alt="Ubuntu Server" /> Ubuntu &nbsp; <img src="https://www.google.com/s2/favicons?domain=apple.com&sz=64" width="16" height="16" alt="macOS" /> macOS |
+<!-- | OS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="16" height="16" alt="Windows 11" /> Windows &nbsp; <img src="https://www.google.com/s2/favicons?domain=ubuntu.com&sz=64" width="16" height="16" alt="Ubuntu Server" /> Ubuntu &nbsp; <img src="https://www.google.com/s2/favicons?domain=apple.com&sz=64" width="16" height="16" alt="macOS" /> macOS | -->
 
 ---
 
