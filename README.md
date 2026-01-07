@@ -20,11 +20,13 @@
 ### 👤 About me
 I build and maintain infrastructure, automate boring routines, and like systems that stay stable under load.
 
-**🎯 Currently focused on:**
+<!-- **🎯 Currently focused on:**
 - self-hosting, Linux services, reverse-proxy stuff
 - networking and traffic tuning
 - automation scripts and small internal tools
-- bots / integrations when it saves time
+- bots / integrations when it saves time -->
+
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=590&height=160&pause=500&backgroundColor=%23333333&backgroundOpacity=0.8&center=false&vCenter=false&border=false&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22%24+claude%22%2C%22font%22%3A%22JetBrains+Mono%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A15%2C%22typingSpeed%22%3A0.06666666666666667%7D%2C%7B%22text%22%3A%22%3E+What+am+I+currently+focused+on%3F%22%2C%22font%22%3A%22JetBrains+Mono%22%2C%22color%22%3A%22%23d9d9d9%22%2C%22fontSize%22%3A15%2C%22typingSpeed%22%3A0.06666666666666667%7D%2C%7B%22text%22%3A%22%E2%80%BB+Thinking+...%22%2C%22font%22%3A%22JetBrains+Mono%22%2C%22color%22%3A%22%23eba500%22%2C%22fontSize%22%3A15%2C%22typingSpeed%22%3A0.01%2C%22lineHeight%22%3A1.1%7D%2C%7B%22text%22%3A%22%F0%9F%8E%AF+You+are+currently+focused+on%3A%22%2C%22font%22%3A%22JetBrains+Mono%22%2C%22color%22%3A%22%23fae6c8%22%2C%22fontSize%22%3A15%2C%22typingSpeed%22%3A0.02857142857142857%2C%22lineHeight%22%3A1.1%7D%2C%7B%22text%22%3A%22%E2%A0%80%E2%A0%80%E2%80%A2+self-hosting%2C+Linux+services%2C+reverse-proxy+stuff%22%2C%22font%22%3A%22JetBrains+Mono%22%2C%22color%22%3A%22%23fae6c8%22%2C%22fontSize%22%3A15%2C%22typingSpeed%22%3A0.02857142857142857%2C%22lineHeight%22%3A1.1%7D%2C%7B%22text%22%3A%22%E2%A0%80%E2%A0%80%E2%80%A2+networking+and+traffic+tuning%22%2C%22font%22%3A%22JetBrains+Mono%22%2C%22color%22%3A%22%23fae6c8%22%2C%22fontSize%22%3A15%2C%22typingSpeed%22%3A0.02857142857142857%2C%22lineHeight%22%3A1.1%7D%2C%7B%22text%22%3A%22%E2%A0%80%E2%A0%80%E2%80%A2+automation+scripts+and+small+internal+tools%22%2C%22font%22%3A%22JetBrains+Mono%22%2C%22color%22%3A%22%23fae6c8%22%2C%22fontSize%22%3A15%2C%22typingSpeed%22%3A0.02857142857142857%2C%22lineHeight%22%3A1.1%7D%2C%7B%22text%22%3A%22%E2%A0%80%E2%A0%80%E2%80%A2+bots+%2F+integrations+when+it+saves+time%22%2C%22font%22%3A%22JetBrains+Mono%22%2C%22color%22%3A%22%23fae6c8%22%2C%22fontSize%22%3A15%2C%22typingSpeed%22%3A0.02857142857142857%2C%22lineHeight%22%3A1.1%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 ### 🧩 OS
 <table>
@@ -36,6 +38,7 @@ I build and maintain infrastructure, automate boring routines, and like systems 
 </table>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=2800&pause=800&color=DC143C&vCenter=true&width=500&height=30&lines=S+U+T+I+V+I+S+M+Project.;.)
+
 
 ---
 
@@ -60,3 +63,4 @@ I build and maintain infrastructure, automate boring routines, and like systems 
 <img src="https://github-profile-trophy.vercel.app/?username=SawGoD&theme=darkhub&no-frame=true&row=1&column=6" />
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:dc143c&height=130&section=footer&text=Deploy first, think later&fontColor=ffffff&fontSize=42&animation=fadeIn" /> -->
+
