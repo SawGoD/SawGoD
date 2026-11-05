@@ -33,6 +33,7 @@ I build and maintain infrastructure, automate boring routines, and like systems 
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="28" /><br><sub>Windows</sub></td>
     <td align="center"><img src="https://www.google.com/s2/favicons?domain=ubuntu.com&sz=64" width="28" /><br><sub>Ubuntu</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="28" alt="Debian" title="Debian" /><br><sub>Debian</sub></td>
     <td align="center"><img src="https://www.google.com/s2/favicons?domain=apple.com&sz=64" width="28" /><br><sub>macOS</sub></td>
   </tr>
 </table>
